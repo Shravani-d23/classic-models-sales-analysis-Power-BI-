@@ -24,7 +24,7 @@ This project focuses on analyzing sales data by building a structured data model
 
 ## 🔄 Data Workflow
 
-1. Created a **fact view (`fact_sales`)** in MySQL by joining:
+1. Created a **fact view `fact_sales`** in MySQL by joining:
 
    * Orders
    * Order Details
@@ -47,7 +47,7 @@ This project focuses on analyzing sales data by building a structured data model
 
 ## 📈 Dashboard Preview
 
-The dashboard is divided into three views: overview, detailed analysis, and business insights
+The dashboard is divided into three views: overview, detailed analysis, and business insights.
 
 ### 🔹 Sales Dashboard Overview
 
